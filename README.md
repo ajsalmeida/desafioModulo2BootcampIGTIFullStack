@@ -1,2 +1,6 @@
 # desafioModulo2BootcampIGTIFullStack
->>npm init
+
+##start with
+>npm init
+##then install express module
+>npm install express
